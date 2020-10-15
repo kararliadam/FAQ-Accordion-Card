@@ -141,8 +141,8 @@ body {
     background: url(../img/icon-arrow-down.png) no-repeat;
     background-size: contain;
     float: right;
-    width: 20px;
-    height: 20px; 
+    width: 10px;
+    height: 10px; 
 }
 .container .app .column-right details p {
     padding-top: 10px;
